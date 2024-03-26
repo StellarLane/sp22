@@ -1,3 +1,10 @@
+This repo includes my implementations for the labs and homework in Data100-sp22
+
+I'm not quite sure if such a fork action is OK or not, if not, please contact me and I will delete it right away.
+
+
+
+
 ## Data 100 Spring 2022 website
 
 Public facing repo for Data 100, Spring 2022
