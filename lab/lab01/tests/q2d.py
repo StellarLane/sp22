@@ -1,3 +1,5 @@
+OK_FORMAT=True
+OK_FORMAT=True
 test = {   'name': 'q2d',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> valid_values\n'
